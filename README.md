@@ -34,3 +34,6 @@
 ## Diamante
 ![blueJewel](https://github.com/user-attachments/assets/23b21014-79f3-40cd-912e-445e0e9d3d54)
 
+## Link para acessar e testar o jogo
+https://www.construct.net/en/free-online-games/topgame-plataforma-75554/play
+
